@@ -24,8 +24,8 @@
  *    OTHER DEALINGS IN THE SOFTWARE.
  */
 
-#ifndef LedControl_h
-#define LedControl_h
+#ifndef LedControl_ca_h
+#define LedControl_ca_h
 
 #include <avr/pgmspace.h>
 
